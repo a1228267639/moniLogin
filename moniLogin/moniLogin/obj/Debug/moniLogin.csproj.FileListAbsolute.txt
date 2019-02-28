@@ -1,0 +1,7 @@
+D:\YZJ\VSProject\moniLogin\moniLogin\bin\Debug\moniLogin.exe.config
+D:\YZJ\VSProject\moniLogin\moniLogin\bin\Debug\moniLogin.exe
+D:\YZJ\VSProject\moniLogin\moniLogin\bin\Debug\moniLogin.pdb
+D:\YZJ\VSProject\moniLogin\moniLogin\obj\Debug\moniLogin.csprojAssemblyReference.cache
+D:\YZJ\VSProject\moniLogin\moniLogin\obj\Debug\moniLogin.csproj.CoreCompileInputs.cache
+D:\YZJ\VSProject\moniLogin\moniLogin\obj\Debug\moniLogin.exe
+D:\YZJ\VSProject\moniLogin\moniLogin\obj\Debug\moniLogin.pdb
