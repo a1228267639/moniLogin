@@ -5,3 +5,10 @@ D:\YZJ\VSProject\moniLogin\moniLogin\obj\Debug\moniLogin.csprojAssemblyReference
 D:\YZJ\VSProject\moniLogin\moniLogin\obj\Debug\moniLogin.csproj.CoreCompileInputs.cache
 D:\YZJ\VSProject\moniLogin\moniLogin\obj\Debug\moniLogin.exe
 D:\YZJ\VSProject\moniLogin\moniLogin\obj\Debug\moniLogin.pdb
+F:\GItHub\moniLogin\moniLogin\moniLogin\bin\Debug\moniLogin.exe.config
+F:\GItHub\moniLogin\moniLogin\moniLogin\bin\Debug\moniLogin.exe
+F:\GItHub\moniLogin\moniLogin\moniLogin\bin\Debug\moniLogin.pdb
+F:\GItHub\moniLogin\moniLogin\moniLogin\obj\Debug\moniLogin.csprojAssemblyReference.cache
+F:\GItHub\moniLogin\moniLogin\moniLogin\obj\Debug\moniLogin.csproj.CoreCompileInputs.cache
+F:\GItHub\moniLogin\moniLogin\moniLogin\obj\Debug\moniLogin.exe
+F:\GItHub\moniLogin\moniLogin\moniLogin\obj\Debug\moniLogin.pdb

@@ -28,10 +28,10 @@ namespace moniLogin
 
 
             //  Console.ReadLine();
-            FileStream fs = new FileStream(@"C:\Users\Administrator.USER-20181202MU\Desktop\Images\biaoti1.jpg", FileMode.Open, FileAccess.Read);
-            byte[] bArr = new byte[fs.Length];
-            fs.Read(bArr, 0, bArr.Length);
-            fs.Close();
+            //FileStream fs = new FileStream(@"C:\Users\Administrator.USER-20181202MU\Desktop\Images\biaoti1.jpg", FileMode.Open, FileAccess.Read);
+            //byte[] bArr = new byte[fs.Length];
+            //fs.Read(bArr, 0, bArr.Length);
+            //fs.Close();
 
 
             //HttpHeader header = new HttpHeader();
